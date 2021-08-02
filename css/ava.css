@@ -1,0 +1,5 @@
+@import url(config.css);
+
+img {
+    border-radius: var(--borfer-radius-circle);
+}
