@@ -1,0 +1,15 @@
+@import url(config.css);
+
+.T {
+    color: var(--color-black-default);
+    font-size: var(--font-size-large);
+    margin-bottom: 0px;
+    font-family: var(--font-family-calibri);
+}
+
+.Y {
+    color: var(--color-black-darken-1);
+    font-size: var(--font-size-midle);
+    margin-top: 0px;
+    font-family: var(--font-family-calibri);
+}
