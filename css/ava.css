@@ -1,5 +1,6 @@
 @import url(config.css);
 
-img {
+.fr {
     border-radius: var(--borfer-radius-circle);
+    height: 50px;
 }

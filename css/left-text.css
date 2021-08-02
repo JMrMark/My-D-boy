@@ -13,3 +13,7 @@
     margin-top: 0px;
     font-family: var(--font-family-calibri);
 }
+
+.grid .T {
+    grid-column: 1;
+}

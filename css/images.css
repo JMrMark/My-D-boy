@@ -1,0 +1,11 @@
+@import url(config.css);
+
+.im {
+    height: 250px;
+}
+
+.im:hover {
+    -webkit-box-shadow: 0px 44px 64px 31px rgba(34, 60, 80, 0.2) inset;
+    -moz-box-shadow: 0px 44px 64px 31px rgba(34, 60, 80, 0.2) inset;
+    box-shadow: 0px 44px 64px 31px rgba(34, 60, 80, 0.2) inset;
+}
